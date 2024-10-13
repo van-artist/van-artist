@@ -18,7 +18,7 @@
 - Educational tools or platforms that help others learn programming and technology.
 
 ### 📫 How to reach me:
-- **Email:** Aren_Liu@163.com
+- **Email:** shangliu385@gmail.com
 - **Personal Website:** [bigcousin1.cn](https://bigcousin1.cn) (Check out my portfolio and blog!)
 
 ### 😄 Pronouns:
